@@ -13,7 +13,7 @@ def get_openai_client(api_key):
         http_client=httpx.Client()
     )
 
-client = get_openai_client(st.secrets["OPENAI_API_KEY"])
+client = get_openai_client(st.secrets["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"])
 
 # System instructions
 grounding = st.secrets["GROUNDING"]
