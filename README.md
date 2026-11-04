@@ -1,8 +1,8 @@
 ---
-title: RXpizzeria
-emoji: 🐢
-colorFrom: yellow
-colorTo: yellow
+title: City Compass
+emoji: 🧭
+colorFrom: blue
+colorTo: orange
 sdk: streamlit
 sdk_version: 1.55.0
 app_file: app.py
